@@ -14,7 +14,7 @@ Then, if the result is a factor of the target integer then you can find the rest
 The first one of the remaining would be target/result and the rest would be only 1s.<br/></h4>
 <h2>☐ Find longest palindrome length. <br/></h2>
 <h4> First convert the string to a set.<br/><br/>
-Count occurance of each character if it is odd.<br/><br/>
+Count occurance of each character. If it is odd,<br/><br/>
 Add occurence times - 1 to the result.<br/><br/>
 Otherwise, add only occurences to result. <br/> <br/> 
 After the execution if any odd occurence had occured, add 1 to the result. <br/>
