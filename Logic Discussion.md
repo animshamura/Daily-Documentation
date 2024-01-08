@@ -7,7 +7,7 @@
   Each time simply execute (1 + i times 0s + 6 + i times Os + 9 + (n- 2i - 3) times 0s) <br/> <br/>
   and (9 + i times 0s + 6 + i times Os + 1 + (n- 2i - 3) times 0s). <br/> </h4>
 
-<h2>☐ You can find an array of integers can form a target integer. <br/></h2>
+<h2>☐ You can find an array of integers which form a target integer. <br/></h2>
 <h4>You will have some integers those are not mentioned.<br/><br/>
 It's as simple as it is. You got to find the multiplication of the given integers. <br/><br/>
 Then, if the result is a factor of the target integer then you can find the rest integers. <br/><br/>
