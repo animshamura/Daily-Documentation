@@ -7,12 +7,12 @@
   Each time simply execute (1 + i times 0s + 6 + i times Os + 9 + (n- 2i - 3) times 0s) <br/> <br/>
   and (9 + i times 0s + 6 + i times Os + 1 + (n- 2i - 3) times 0s). <br/> </h4>
 
-<h2>☐ You can find an array of integers which form a target integer. <br/></h2>
+<h2>☐ Find an array of integers which can form a target integer. <br/></h2>
 <h4>You will have to find some integers those are not mentioned.<br/><br/>
 It's as simple as it is. You got to find the multiplication of the given integers. <br/><br/>
 Then, if the result is a factor of the target integer then you can find the rest integers. <br/><br/>
 The first one of the remaining would be target/result and the rest would be only 1s.<br/></h4>
-<h2>☐ How can you find longest palindrome length? <br/></h2>
+<h2>☐ Find longest palindrome length. <br/></h2>
 <h4> First convert the string to a set.<br/><br/>
 Count occurance of each character if it is odd.<br/><br/>
 Add occurence times - 1 to the result.<br/><br/>
