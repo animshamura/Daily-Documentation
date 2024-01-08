@@ -12,7 +12,7 @@
 It's as simple as it is. You got to find the multiplication of the given integers. <br/><br/>
 Then, if the result is a factor of the target integer then you can find the rest integers. <br/><br/>
 The first one of the remaining would be target/result and the rest would be only 1s.<br/></h4>
-<h2>How can you find longest palindrome length? <br/></h2>
+<h2>☐ How can you find longest palindrome length? <br/></h2>
 <h4> First convert the string to a set.<br/><br/>
 Count occurance of each character if it is odd.<br/><br/>
 Add occurence times - 1 to the result.<br/><br/>
