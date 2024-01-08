@@ -4,7 +4,7 @@
   set <<char>char> Set (s.begin(), s.end()); <br/> <br/>
   vector <<char>char> Set (s.begin(), s.end()); <br/> 
 </h4>
-<h2>☐ You can count the number of occurance of any interger or character.</h2>
+<h2>☐ You can count the number of occurance without loop.</h2>
  <h4> count(s.begin(), s.end(), 'e'); <br/> <br/>
   This would return how many times 'e' is in the string s.<br/></h4>
 <h2>☐ GCD </h2>
