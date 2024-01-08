@@ -16,7 +16,7 @@ The first one of the remaining would be target/result and the rest would be only
 <h4> First convert the string to a set.<br/><br/>
 Count occurance of each character. If it is odd,<br/><br/>
 Add occurence times - 1 to the result.<br/><br/>
-Otherwise, add only occurences to result. <br/> <br/> 
+Otherwise, add only occurences to the result. <br/> <br/> 
 After the execution if any odd occurence had occured, add 1 to the result. <br/>
 </h4>
 
