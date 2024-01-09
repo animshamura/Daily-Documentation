@@ -14,4 +14,4 @@ gcd(a,b) returns the GCD of the integers a and b. <br/></h4>
 <h4> Least Common Multiple can be found using Built-In function.<br/><br/>
 lcm(a,b) returns the LCM of the integers a and b. <br/></h4>
 <h2>☐ Partial Sum </h2>
-<h4> partial_sum(vec.begin(), vec.end(),b); saves partial sum to array b.<br/><br/>
+<h4> partial_sum(vec.begin(), vec.end(),b); saves partial sum to array b.<br/></h4>
